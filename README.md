@@ -1,6 +1,8 @@
 # Portfolio 
 
-Developing a software developing portfolio using vite, react and tailwindcss
+Developing a software developing portfolio using vite, react and tailwindcss.
+
+I use emailjs for the contact section where you can send a email to me without leaving the portfolio
 
 # React + Vite
 
